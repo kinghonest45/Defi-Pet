@@ -2,7 +2,7 @@
 
 ![defi-puppy](https://github.com/user-attachments/assets/3ef62c96-4512-4bc7-bea4-c9223f60cd23)
 
-# ![demo](https://github.com/user-attachments/assets/f979cc4c-9fdc-4e44-9518-fce966f96a61)
+ ![demo](https://github.com/user-attachments/assets/f979cc4c-9fdc-4e44-9518-fce966f96a61)
 
 ## Description
 
