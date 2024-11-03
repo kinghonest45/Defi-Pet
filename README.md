@@ -2,6 +2,7 @@
 
 ![defi-puppy](https://github.com/user-attachments/assets/3ef62c96-4512-4bc7-bea4-c9223f60cd23)
 
+Deployed on AIA Testnet: https://testnet.aiascan.com/address/0x15A734df32E7b74EA7d16d52c65908989a327D1D
 ## Description
 
 Introducing your new virtual companion: a Defi puppy that you can mint (3D NFT) and bring to life! Once minted, your Defi puppy can roam around your space, interact with you, and join in on various activities.
