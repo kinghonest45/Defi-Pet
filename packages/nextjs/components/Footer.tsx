@@ -45,9 +45,9 @@ export const Footer = () => {
         <ul className="menu menu-horizontal w-full">
           <div className="flex justify-center items-center gap-2 text-sm w-full">
             
-            <span>·</span>
+            <span></span>
             <div className="flex justify-center items-center gap-2">
-              <p className="m-0 text-center">Built for NEO X Grind Hackathon </p>
+
             </div>
           </div>
         </ul>
