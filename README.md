@@ -22,8 +22,8 @@ To get started with this app, follow the steps below:
 1. Clone this repo & install dependencies
 
 ```
-git clone https://github.com/kinghonest45/Defi_Puppy
-cd Defi_Puppy
+git clone https://github.com/kinghonest45/Defi-Puppy
+cd Defi-Puppy
 yarn install
 ```
 
