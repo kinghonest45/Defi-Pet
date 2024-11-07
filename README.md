@@ -1,4 +1,4 @@
-# 🐕 Defi Puppy | Your Digital Friend
+# 🐕 Defi Puppy | Your Digital Friend 
 
 ![defi-puppy](https://github.com/user-attachments/assets/3ef62c96-4512-4bc7-bea4-c9223f60cd23)
 
